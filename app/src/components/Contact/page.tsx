@@ -1,3 +1,5 @@
+"use client";
+
 import { motion } from 'motion/react';
 import { Twitter, Twitch, MessageCircle, Mail, Sparkles } from 'lucide-react';
 
